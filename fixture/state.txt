@@ -1,2 +1,2 @@
-fixture-state=v1
-purpose=exact-commit-baseline
+fixture-state=v2
+purpose=advanced-main-state
